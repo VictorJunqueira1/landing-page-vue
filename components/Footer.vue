@@ -16,7 +16,7 @@
                     </div>
                 </div>
             </div>
-            <div class="flex flex-col mb-4 md:mb-0">
+            <div class="flex flex-col mb-4 space-y-8">
                 <a href="#" class="text-slate-300 hover:text-slate-100 mb-1">Política de privacidade</a>
                 <a href="#" class="text-slate-300 hover:text-slate-100 mb-1">Termos de uso</a>
                 <a href="#" class="text-slate-300 hover:text-slate-100">Regulamento</a>
