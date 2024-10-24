@@ -7,7 +7,6 @@
                         alt="BRATECNO" class="h-28" />
                 </div>
                 <div class="flex flex-col">
-                    <div class="text-white font-bold">BRATECNO</div>
                     <div class="mt-2 text-sm">Powered by:</div>
                     <div class="flex items-center mt-1">
                         <img aria-hidden="true" alt="Polvo Logo" src="https://openui.fly.dev/openui/24x24.svg?text=🐙"
