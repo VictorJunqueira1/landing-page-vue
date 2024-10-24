@@ -33,7 +33,7 @@
                     <a href="#"
                         class="text-slate-300 transition-all ease-in-out duration-200 hover:text-blue-500">LinkedIn</a>
                 </div>
-                <div class="mt-4 flex flex-col space-y-2">
+                <div class="mt-4 flex flex-col space-y-4">
                     <a href="#home" class="text-slate-300 hover:text-slate-100">HOME</a>
                     <a href="#howParticipate" class="text-slate-300 hover:text-slate-100">COMO PARTICIPAR</a>
                     <a href="#prizes" class="text-slate-300 hover:text-slate-100">PRÊMIOS</a>
