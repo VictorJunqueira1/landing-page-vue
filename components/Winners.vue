@@ -63,7 +63,7 @@ const winners = ref([]);
 
 const fetchWinners = async () => {
   try {
-    const response = await fetch('https://winners-api.onrender.com');
+    const response = await fetch('https://winners-api.onrender.com/api/winners/');
     const data = await response.json();
     winners.value = data;
   } catch (error) {
